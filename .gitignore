@@ -1,1 +1,4 @@
 .DS_Store
+jupyter.sh
+.ipynb_checkpoints
+__pycache__
